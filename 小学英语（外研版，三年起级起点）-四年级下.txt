@@ -1,0 +1,926 @@
+小学英语（外研版，三年起级起点）-四年级下
+1
+spelling
+nice
+2
+meaning
+adj. 美好的,令人愉快的,漂亮的,善意的
+3
+spelling
+clever
+4
+meaning
+adj. 聪明的,机灵的
+5
+spelling
+naughty
+6
+meaning
+adj. 顽皮的,淘气的，粗俗的
+7
+spelling
+a bit
+8
+meaning
+有点儿
+9
+spelling
+shy
+10
+meaning
+adj. 害羞的,胆怯的,迟疑的
+vi. 惊退,畏缩,乱投
+vt. 乱投
+n. 投掷,惊避
+11
+spelling
+answer
+12
+meaning
+vt.& vi.答复； 解答； 答辩； 适应
+n.回答； 答案； 反应； 足以媲美的人
+13
+spelling
+call
+14
+meaning
+v.呼唤，喊叫； 召唤，叫来，召集； 下令，命令； 打电话给
+n.喊叫，大声喊； 电话联络； 必要，理由； 要求
+15
+spelling
+bad
+16
+meaning
+adj. 坏的,令人不满意的,有害的,有病的
+n. 坏人,坏事
+17
+spelling
+cool
+18
+meaning
+adj. 凉的,凉快的,冷静的,冷色系的
+adv. 冷静地
+n. 凉快
+vt. &vi. (使)变凉,(使)冷静
+19
+spelling
+aunt
+20
+meaning
+n. 伯母, 姑, 婶, 姨
+21
+spelling
+uncle
+22
+meaning
+n. 伯, 姑父, 舅, 叔, 姨父
+23
+spelling
+big
+24
+meaning
+adj. 大的,重要的
+adv. 以郑重的方式,大数量
+n. 杰出的组织和个人
+25
+spelling
+litter
+26
+meaning
+n. 垃圾, 杂乱，一窝(幼仔)，褥草，轿子
+v. 乱丢垃圾, 弄乱，产(幼仔)，用草等给动物铺窝
+27
+spelling
+cute
+28
+meaning
+adj. 可爱的,聪明的,俐伶的
+n. 智取敌方的策略/手段, 灵巧
+29
+spelling
+city
+30
+meaning
+n. 城市
+31
+spelling
+ship
+32
+meaning
+n. 船,舰,船员,飞船
+vt. 以船运送,乘船,运送,进水,在船上工作
+vi. 上船,坐船,运送,在船上工作
+33
+spelling
+beautiful
+34
+meaning
+adj.美丽的, 漂亮的
+35
+spelling
+whose
+36
+meaning
+pron. 谁的
+37
+spelling
+queen
+38
+meaning
+n. 女王,王后,最重要的女子或事物,女冠军,女王蜂
+vi. 立...为女王,当女王
+vt. 成为女王或王后,以女王的身份统治
+vt. 使卒子达底线变为王后取得纵,横,斜自由行走的资格
+39
+spelling
+close
+40
+meaning
+n. 完结, 结论
+adj. 靠近的,亲近的，几乎，密切的, 势均力敌的
+vt. 关,结束,靠近
+vi. 关，停业, 搏斗
+adv. 紧挨着, 紧紧地
+41
+spelling
+old
+42
+meaning
+adj. 老的,过时的,某年龄的,以前的,陈旧的,熟悉的,成熟的
+n. 古时,某年龄
+43
+spelling
+famous
+44
+meaning
+adj. 著名的,一流的
+45
+spelling
+robot
+46
+meaning
+n. 机器人
+47
+spelling
+will
+48
+meaning
+aux.将，将会； 会，要
+n.愿意； 意志（力）； [法]遗嘱
+vt.决心要； 将（财产等）遗赠某人； 用意志力驱使（某事发生）
+vi.愿意， 希望， 想要
+49
+spelling
+everything
+50
+meaning
+pron. 每件事, 一切
+51
+spelling
+one day
+52
+meaning
+(过去或将来)某一天
+53
+spelling
+housework
+54
+meaning
+n. 家务劳动
+55
+spelling
+learn
+56
+meaning
+vt. 学习,获悉
+vi. 了解,习得
+57
+spelling
+our
+58
+meaning
+pron. 我们的
+59
+spelling
+homework
+60
+meaning
+n. 家庭作业
+61
+spelling
+won't
+62
+meaning
+(=will not)
+63
+spelling
+Tuesday
+64
+meaning
+n. 星期二
+65
+spelling
+Wednesday
+66
+meaning
+n. 星期三
+67
+spelling
+Thursday
+68
+meaning
+n. 星期四
+69
+spelling
+Friday
+70
+meaning
+n. 星期五
+71
+spelling
+have
+72
+meaning
+aux. 已经,曾经
+n. 吃,从事,得到,雇用,享有,有,允许
+v. 有
+73
+spelling
+next
+74
+meaning
+adj.紧接在后的； 次于的； 贴近的； 紧邻的
+adv.接下去； 然后； 居后地； 依次的
+n.下一位； 下一个
+prep.靠近； 居于…之后； 在…的隔壁
+75
+spelling
+week
+76
+meaning
+n. 星期, 周
+77
+spelling
+holiday
+78
+meaning
+n. 假期,假日
+vi. 度假
+79
+spelling
+take
+80
+meaning
+vt.拿，取； 采取； 接受（礼物等）； 耗费（时间等）
+vi.拿； 获得
+n.镜头； 看法； 收入额； 场景
+81
+spelling
+flu
+82
+meaning
+n. 流行性感冒
+83
+spelling
+picnic
+84
+meaning
+n. 野餐,愉快的时间,猪脊肉
+vi. 野餐
+85
+spelling
+great
+86
+meaning
+adj. 大量的, 很好的, 美好的, 伟大的, 重要的
+adv. (口语)好极了
+87
+spelling
+why
+88
+meaning
+adv. 为什么
+conj. …的理由, 为什么
+int. 咳, 哎呀
+pron. 为何, 为什么
+89
+spelling
+Why not
+90
+meaning
+(+动词原型)：为何不 ... (用来提建议)
+91
+spelling
+because
+92
+meaning
+conj. 因为
+93
+spelling
+so
+94
+meaning
+adv. 如此,如是,同样
+conj. 所以,因此
+adj. 真的
+pron. 这样
+95
+spelling
+cloudy
+96
+meaning
+adj. 多云的
+97
+spelling
+weather
+98
+meaning
+n. 天气,气候,气象
+vt. (因受风吹,日晒,雨淋等,使)褪色, 平安度过
+vi. 变色,变形, 经受住(困难)
+adj. 天气预报的, 上风的
+99
+spelling
+was
+100
+meaning
+prep. is, am的过去式，是
+101
+spelling
+then
+102
+meaning
+adv. 那么, 当时，然后，于是
+adj. 当时的
+103
+spelling
+grandparent
+104
+meaning
+n. (外)祖父(母)
+105
+spelling
+were
+106
+meaning
+be动词的复数过去式，are的过去式
+107
+spelling
+young
+108
+meaning
+adj. 年轻的,没有经验的,初期的
+n. 青年人,幼崽
+109
+spelling
+hair
+110
+meaning
+n. 头发, 毛发, 毛织物, 极少量, 极短距离
+111
+spelling
+shirt
+112
+meaning
+n. 衬衫
+113
+spelling
+short
+114
+meaning
+adj. 短的,矮的,短暂的 
+n. 短裤
+adv. 短暂地;突然地
+115
+spelling
+long
+116
+meaning
+adj. 长的,很久的,冗长的
+vi. 渴望,热望,极想
+adv. 长期地,远地
+n. 长时间,长音节
+117
+spelling
+wasn't
+118
+meaning
+不是
+=was not
+119
+spelling
+weren't
+120
+meaning
+prep.不是
+121
+spelling
+clean
+122
+meaning
+adj. 干净的, 正当的, 纯洁的, 完全的, 精准的, 空的
+adv. 完全地
+n. 清洁
+vt. &vi. 打扫,清扫
+123
+spelling
+dirty
+124
+meaning
+adj. 肮脏的,色情的,卑鄙的
+adv. 卑鄙地
+vt. 使...变脏
+vi. 弄脏
+125
+spelling
+yesterday
+126
+meaning
+n.&amp;adv. 昨天
+127
+spelling
+out
+128
+meaning
+vt. adj. 外面的,向外的,落伍的,不做考虑的
+adv. 向外,离岸,外出,出局,出去,用尽,完成,出现,结束
+vt. 释放出,揭露
+vi. 揭发
+prep. 向外,通过
+n. 外面,在野者,下台者,出局的一击
+129
+spelling
+well
+130
+meaning
+n. 井,源泉,楼梯井
+adj. 健康的,良好的,适宜的
+adv. 很好地,适当地
+vi. 涌出
+interj. 好吧,啊
+131
+spelling
+thanks
+132
+meaning
+int. 谢谢
+n. 谢谢(只用复数)
+133
+spelling
+sun
+134
+meaning
+n. 太阳,阳光,中心人物,像太阳般的东西
+vt.& vi. 晒太阳
+135
+spelling
+lesson
+136
+meaning
+n. 课，教训
+vt. 给...上课,教训
+137
+spelling
+village
+138
+meaning
+n. 村庄
+139
+spelling
+had
+140
+meaning
+v. 有, 吃, 使
+vbl. 有, 吃, 让
+conj. 有
+141
+spelling
+phone
+142
+meaning
+n. 音位,电话,耳机
+vt. &vi. 打电话
+143
+spelling
+cook
+144
+meaning
+vi. 烧菜, 发生, 做好
+vt. 编造, 烧, 虚构
+n. 厨师, 烧菜
+145
+spelling
+really
+146
+meaning
+adv. 真正地,实在，事实上
+147
+spelling
+wash
+148
+meaning
+v. 洗, 洗涤, 洗清
+n. 洗, 洗濯
+149
+spelling
+what about
+150
+meaning
+(对于) ... 怎么样
+151
+spelling
+did
+152
+meaning
+v. 做
+conj. 是, 要, 做
+153
+spelling
+didn't
+154
+meaning
+(=did not)
+155
+spelling
+computer
+156
+meaning
+n. 计算机
+157
+spelling
+love
+158
+meaning
+vt.& vi.爱，热爱； 爱戴； 喜欢； 赞美，称赞
+vt.喜爱； 喜好； 喜欢； 爱慕
+n.爱情，爱意； 疼爱； 热爱； 爱人，所爱之物
+159
+spelling
+him
+160
+meaning
+pron. 他(宾格)
+161
+spelling
+Mrs
+162
+meaning
+太太
+163
+spelling
+miss
+164
+meaning
+n.（用于姓名或姓之前，对未婚女子的称呼）小姐； 女士； 失误
+v.漏掉； 错过（机会）； 思念； 没遇到
+165
+spelling
+song
+166
+meaning
+n. 歌曲, 歌唱艺术, 诗歌
+167
+spelling
+beautifully
+168
+meaning
+adv. 美丽地, 漂亮地
+169
+spelling
+saw
+170
+meaning
+vbl. 看见(see的过去式)
+n. 锯
+vt.& vi.用锯子锯
+171
+spelling
+game
+172
+meaning
+n. 游戏, 比赛, 行业, 非法手段, 策略, 猎物, 野味, 戏弄
+vi. 赌博
+vt. 欺骗
+adj. 乐意做的, 勇敢的, 跛的
+173
+spelling
+last
+174
+meaning
+adj. 最后的,末尾的,最近的,晚了，迟到了
+adv. 最后,最新
+n. 最后来的人（或发生的事）
+vi. &vt. 持续
+175
+spelling
+fun
+176
+meaning
+n. 乐趣,玩笑,有趣的人或事物
+vi. 开玩笑
+adj. 充满乐趣的,令人愉悦的
+177
+spelling
+went
+178
+meaning
+vbl.go的过去式
+179
+spelling
+there
+180
+meaning
+adv.在那里； 那里； 在那一点上
+pron.表示某物或某人的存在或某事的发生（常用作be, seem或appear的主语）
+int.（表示满足、烦恼）你瞧，好啦，得啦
+181
+spelling
+ate
+182
+meaning
+eat的过去式
+183
+spelling
+drank
+184
+meaning
+v. 喝，饮
+动词drink的过去式
+185
+spelling
+drink
+186
+meaning
+n. 饮料
+vt. &vi. 喝,喝酒
+187
+spelling
+time
+188
+meaning
+n.时间； 时刻； 时代； 次
+vt.为…安排时间； 测定…的时间； 调准（机械的）速度； 拨准（钟、表）的快慢
+vi.合拍； 和谐； 打拍子
+adj.定时的； 定期的； [美国英语]分期（付款）的
+189
+spelling
+have a good time
+190
+meaning
+玩得痛快
+191
+spelling
+busy
+192
+meaning
+adj. 忙的,杂乱的
+vt. 使忙于
+vi. 忙
+193
+spelling
+took
+194
+meaning
+vbl.take的过去式
+195
+spelling
+tell
+196
+meaning
+vt. 告诉,说,知道,认出,计数
+vi. 讲述,告发,作证,产生效果
+197
+spelling
+delicious
+198
+meaning
+adj. 可口的, 美味的
+199
+spelling
+made
+200
+meaning
+adj. 制造的，捏造的，拼成的，肯定会成功的
+动词make的过去式和过去分词形式
+201
+spelling
+poster
+202
+meaning
+n. 海报,招贴,脚夫
+v. 贴海报于
+203
+spelling
+welcome
+204
+meaning
+vt.欢迎； 乐于接受
+adj.受欢迎的； 令人愉悦的； 表示感谢的
+n.欢迎，迎接
+205
+spelling
+postcard
+206
+meaning
+n. 明信片
+adj. 如画的
+207
+spelling
+cousin
+208
+meaning
+n. 堂(或表)兄弟(姐妹)
+209
+spelling
+dear
+210
+meaning
+adj. 严重的,珍贵的,亲爱的,昂贵的,衷心的
+adv. 高价地,热爱地
+n. 亲爱的人,可爱的人
+int. 啊,哎呀
+211
+spelling
+on holiday
+212
+meaning
+adj. 在休假中(在度假)
+213
+spelling
+travel
+214
+meaning
+n.旅行,移动
+vi. 旅行,传播,移动
+vt. 横贯
+215
+spelling
+came
+216
+meaning
+vbl.come的过去式
+217
+spelling
+pop
+218
+meaning
+n. 取出,砰然声,流行乐曲,流行文化艺术,（尤用作称呼）爸
+adj. 流行的,热门的,通俗的
+vt. 取出,发出爆裂声,突然伸出,击打,开火
+vi. 发出砰的一声，（因激动、惊奇）张大
+adv. 突然间地, 暴发地
+POP abbr.=point of purchase
+POP abbr.=population 人口
+219
+spelling
+concert
+220
+meaning
+n. 音乐会, 一致, 和谐
+vt. 制定计划, 通过协商达成一致
+vi. 合作
+221
+spelling
+earth
+222
+meaning
+n. 地球,泥土,世间,大地,地球人
+vt. 赶入洞中,提取土壤
+vi. 躲入洞穴
+223
+spelling
+fall
+224
+meaning
+n. 秋天, 落下, 瀑布
+v. 倒下, 落下, 来临
+225
+spelling
+fall off
+226
+meaning
+vi. 跌落，下降，（船只）偏离船头指向的顺风的位置
+227
+spelling
+fell
+228
+meaning
+动词fall的过去式
+n. 兽皮
+vt. 砍伐, 击倒
+adj. 凶残的, 毁灭性的
+229
+spelling
+fall down
+230
+meaning
+跌倒，失败
+231
+spelling
+found
+232
+meaning
+vt. 创立，建立；创办
+v. 找到（find的过去分词）
+233
+spelling
+town
+234
+meaning
+n. 城镇,城市
+235
+spelling
+happen
+236
+meaning
+vi. 发生,碰巧,出现,偶然遇到
+237
+spelling
+ride
+238
+meaning
+n. 乘坐,乘车,搭便车
+vt. &vi. 骑,乘坐,经受住
+239
+spelling
+thirsty
+240
+meaning
+adj. 口渴的, 渴望的
+241
+spelling
+water
+242
+meaning
+n. 水,雨水,海水，潮汐，海域
+vt. 浇水,给水喝，给…供水,给（饮料等）掺水
+vi. 形成水，喝水
+243
+spelling
+bought
+244
+meaning
+v. 买(buy的过去式及过去分词)
+adj. 买来的
+245
+spelling
+watermelon
+246
+meaning
+n. 西瓜
+247
+spelling
+carry
+248
+meaning
+n. 搬运, 射程, 投射, 联运
+vt. 负载, 运输, 传送, 传播, 表达, 带有, 容纳, 承担, 怀孕, 延续, 推动, 赢得, 记录
+vi. 负载, 被传达, 容许被运输, 被通过
+249
+spelling
+bump
+250
+meaning
+n. 撞击,表面隆起,肿块
+vt.& vi. 碰撞,颠簸而行
+251
+spelling
+hospital
+252
+meaning
+n. 医院
+253
+spelling
+chocolate
+254
+meaning
+n. 巧克力, 巧克力糖, 巧克力饮品
+adj. 巧克力的, 有巧克力糖衣的, 巧克力色的
+255
+spelling
+stomach ache
+256
+meaning
+n. 胃痛
+257
+spelling
+cold
+258
+meaning
+adj. 冷的, 漠然的, 客观的
+n. 感冒, 低温
+adv. 唐突地, 无回旋余地地, 即兴地
+259
+spelling
+headache
+260
+meaning
+n. 头痛
+261
+spelling
+fever
+262
+meaning
+n. 发烧,狂热
+vt. 激怒
+vi. 发烧

@@ -1,0 +1,646 @@
+重大版小学英语三年级上册
+1
+spelling
+eight
+2
+meaning
+num. 八
+pron. 八(个,只...)
+3
+spelling
+have
+4
+meaning
+aux. 已经,曾经
+n. 吃,从事,得到,雇用,享有,有,允许
+v. 有
+5
+spelling
+dad
+6
+meaning
+n. 爸爸
+7
+spelling
+banana
+8
+meaning
+n. 香蕉
+9
+spelling
+very much
+10
+meaning
+很, 非常
+11
+spelling
+purple
+12
+meaning
+adj. 帝王的,紫色的,辞藻华丽的
+n. 紫色,皇室,皇权
+vi. &vt. 变紫
+13
+spelling
+ball
+14
+meaning
+n. 球, 舞会
+v. (把...捏)成球状
+15
+spelling
+watermelon
+16
+meaning
+n. 西瓜
+17
+spelling
+you
+18
+meaning
+pron. 你,你们
+19
+spelling
+your
+20
+meaning
+pron. 你的, 你们的
+21
+spelling
+love
+22
+meaning
+vt.& vi.爱，热爱； 爱戴； 喜欢； 赞美，称赞
+vt.喜爱； 喜好； 喜欢； 爱慕
+n.爱情，爱意； 疼爱； 热爱； 爱人，所爱之物
+23
+spelling
+picture
+24
+meaning
+n. 图画,照片,景色
+vt. 画,描写,想像
+25
+spelling
+zero
+26
+meaning
+num.&amp;n. 零
+27
+spelling
+seven
+28
+meaning
+num. 七
+29
+spelling
+one
+30
+meaning
+n. 一, 第一个, 一美元纸币
+adj. 单一的, 某一个, 同一种类的, 同意的, 唯一的
+pron. 某人, 任何人
+31
+spelling
+pink
+32
+meaning
+adj. 粉红色的,激进的
+n. 粉红色,石竹花,典范
+vt. 刺
+33
+spelling
+what's
+34
+meaning
+(=what is,=what has)
+35
+spelling
+mum
+36
+meaning
+adj. 沉默的
+vi. 演哑剧，化装游玩
+n. 妈妈
+37
+spelling
+morning
+38
+meaning
+n. 早晨, 上午, 开端
+39
+spelling
+for
+40
+meaning
+conj. 因为
+prep. 给,为，关于,代表,支持,因为,往
+41
+spelling
+my
+42
+meaning
+adj. 我的
+interj. 用于表示惊讶的感叹词
+43
+spelling
+help
+44
+meaning
+n. 帮助,援助
+vt. &vi. 帮助,改善
+45
+spelling
+nice
+46
+meaning
+adj. 美好的,令人愉快的,漂亮的,善意的
+47
+spelling
+name
+48
+meaning
+n. 名字, 名称, 姓名
+vt. 命名, 称呼, 任命
+adj. 有名的, 著名的
+49
+spelling
+rabbit
+50
+meaning
+n. 兔子
+vi. 猎兔
+vt. 让...见鬼去吧,该死
+51
+spelling
+balloon
+52
+meaning
+n. 气球
+vt. 使膨胀
+vi. 如气球般膨胀,激增
+adj. 气球状的
+53
+spelling
+orange
+54
+meaning
+adj. 橙色的
+n. 橘子,橙黄色
+55
+spelling
+please
+56
+meaning
+int. 请
+vt. 取悦,请,合心意
+vi. 取悦,愿意
+57
+spelling
+crayon
+58
+meaning
+n. 蜡笔, 蜡笔画
+v. 以蜡笔作画
+59
+spelling
+hi
+60
+meaning
+int. 嗨, 引人注意时的喊声, 打招呼
+61
+spelling
+brown
+62
+meaning
+adj. 褐色的,棕色的
+n. 褐色,棕色
+(姓)布朗
+63
+spelling
+colour
+64
+meaning
+n. 颜色
+v. 给...着色,染
+vt. 给...着色
+65
+spelling
+five
+66
+meaning
+num. 五
+pron.&amp;adj. 五(个,只...)
+67
+spelling
+hello
+68
+meaning
+int.（见面打招呼或打电话用语）喂,哈罗
+69
+spelling
+show
+70
+meaning
+n. 显示,表现,表演,事情
+vt. &vi. 表示,显现,展现,指示
+71
+spelling
+plane
+72
+meaning
+n.水平； 平面； 飞机； 木工刨
+adj.平的，平坦的
+vt.用刨刨平； 小船等擦着水面疾驶
+vi.鸟滑翔
+73
+spelling
+red
+74
+meaning
+adj. 红色的
+n. 红色
+75
+spelling
+it's
+76
+meaning
+it is的缩写,it has的缩写
+77
+spelling
+ruler
+78
+meaning
+n. 尺子
+n. 统治者
+79
+spelling
+an
+80
+meaning
+art. 一
+81
+spelling
+yellow
+82
+meaning
+adj. 黄色的
+n. 黄色
+83
+spelling
+nine
+84
+meaning
+num.&amp;n. 九
+pron.&amp;adv. 九(个,只...)
+85
+spelling
+no
+86
+meaning
+n. 不, 拒绝, 否决票
+adj. 没有, 不是, 绝非
+adv. 不
+87
+spelling
+apple
+88
+meaning
+n. 苹果
+89
+spelling
+dog
+90
+meaning
+n. 狗,卑鄙的人
+vt. 尾随,跟踪
+91
+spelling
+good
+92
+meaning
+n. 善行,好处
+adj. 好的,优良的,上等的
+[pl.]商品
+93
+spelling
+how
+94
+meaning
+adv. 如何,怎样,多么,多少
+conj. 如何,怎样,以...方式
+n. 方式
+95
+spelling
+lemon
+96
+meaning
+n. 柠檬
+97
+spelling
+what
+98
+meaning
+pron. 什么,...的事情,无论什么
+adv. 什么,怎么
+adj. 什么,任何
+99
+spelling
+bear
+100
+meaning
+n. 熊
+v. 忍受,负荷
+v. 结果实,生子女
+101
+spelling
+six
+102
+meaning
+n.六；六个；六岁；六点 num.六；六个
+103
+spelling
+ten
+104
+meaning
+num. 十, 十个
+105
+spelling
+dear
+106
+meaning
+adj. 严重的,珍贵的,亲爱的,昂贵的,衷心的
+adv. 高价地,热爱地
+n. 亲爱的人,可爱的人
+int. 啊,哎呀
+107
+spelling
+black
+108
+meaning
+adj.黑（色）的； 黑色人种的； 黑暗的
+n.黑色； 黑人； 黑颜料； 黑暗
+v.使变黑； 抵制； 拒绝； 使变黑暗
+109
+spelling
+same
+110
+meaning
+adj. 同样的
+adv. 同样地
+pron. 同样的人或事
+111
+spelling
+afternoon
+112
+meaning
+n. 下午
+int.下午好
+113
+spelling
+two
+114
+meaning
+num. 二，两个
+115
+spelling
+yes
+116
+meaning
+adj. 是的
+adv. 是, 是的
+v. 是
+117
+spelling
+which
+118
+meaning
+pron. 哪一个
+adj. 哪一个,哪一些
+119
+spelling
+grape
+120
+meaning
+n. 葡萄
+121
+spelling
+thank
+122
+meaning
+vt.谢谢，感谢； 责怪，把…归于
+n.感谢，谢谢，道谢的话
+123
+spelling
+that
+124
+meaning
+pron. 那
+adj. 如此的, 上文提到的, 特定的
+adv. 非常
+conj. 引导宾语从句等从句
+125
+spelling
+green
+126
+meaning
+adj.绿色的； 未熟的，青春的； 未成熟的； 主张保护环境的
+n.绿色蔬菜； 绿色的衣服； 植物
+vi.绿化，使重视环境保护问题
+127
+spelling
+lovely
+128
+meaning
+adj. 可爱的,令人愉快的
+n. 漂亮的女人,美好的东西
+129
+spelling
+can
+130
+meaning
+aux. 能,可以
+n. 罐头
+vt. 罐装
+vt. 炒某人鱿鱼
+131
+spelling
+four
+132
+meaning
+num. 四
+pron.&amp;adj. 四(个,只...)
+133
+spelling
+number
+134
+meaning
+n. 号码,数字
+v. 编号,加号码,总计
+vi. 总计
+vt. 编号
+135
+spelling
+pass
+136
+meaning
+vt.& vi.走过； 通过； 批准； 度过
+vt.传球； 及格； 发生； 不要
+n.通道； 通行证； 关口； 越过
+137
+spelling
+it
+138
+meaning
+pron. 它
+139
+spelling
+car
+140
+meaning
+n. 小汽车, 车厢, 吊舱
+141
+spelling
+birthday
+142
+meaning
+n. 生日
+143
+spelling
+card
+144
+meaning
+n. 卡片,纸牌,名片,打牌,节目单
+vt. 附上或提供卡片,印卡,在卡片上列出,检查资格
+145
+spelling
+this
+146
+meaning
+adj. &pron. 这,这个
+147
+spelling
+white
+148
+meaning
+adj. 白色的,白种的,纯洁的,幸运的
+n. 白色,白种人
+149
+spelling
+a
+150
+meaning
+art.一(个), 每一(个), 任一（个）
+151
+spelling
+New Year
+152
+meaning
+n.新年
+153
+spelling
+three
+154
+meaning
+num. 三
+pron.&amp;adj. 三(个,只...)
+155
+spelling
+class
+156
+meaning
+n. 班级,(等)阶级,种类
+vt. 分类
+157
+spelling
+Here you are.
+158
+meaning
+给你。
+159
+spelling
+pear
+160
+meaning
+n. 梨(树)
+161
+spelling
+miss
+162
+meaning
+n.（用于姓名或姓之前，对未婚女子的称呼）小姐； 女士； 失误
+v.漏掉； 错过（机会）； 思念； 没遇到
+163
+spelling
+pen
+164
+meaning
+n. 钢笔
+v. 圈进
+165
+spelling
+pencil
+166
+meaning
+n. 铅笔
+v. 用铅笔写
+167
+spelling
+blue
+168
+meaning
+adj. 蓝色的,沮丧的,忧郁的,(女人)有学问的
+n. 蓝色
+vt. 使...变蓝
+vi. 变蓝
+169
+spelling
+cat
+170
+meaning
+n. 猫,猫科动物,邪恶的女人,吊锚机,单帆小船
+vt. 吊锚
+vi. 寻找性交伴侣
+(CAT) 电子计算机横断层扫描
+171
+spelling
+happy
+172
+meaning
+adj. 快乐的,幸福的,乐于做某事
+173
+spelling
+boat
+174
+meaning
+n. 船, 船型物体
+vt. 放于船上
+vi. 划船
+175
+spelling
+look
+176
+meaning
+n. 看, 神色, 样子, 脸色
+vi. 看, 注意, 朝着, 好象, 显得
+vt. 打量, 注视, 用眼神或脸色表示, 期待
+177
+spelling
+strawberry
+178
+meaning
+n. 草莓
+179
+spelling
+book
+180
+meaning
+n. 书,本子
+vt. 登记,预订
+vi. 通过...预订
+181
+spelling
+Mr.
+182
+meaning
+n. 先生

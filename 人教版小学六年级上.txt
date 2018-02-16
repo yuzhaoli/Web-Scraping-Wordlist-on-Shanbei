@@ -1,0 +1,603 @@
+人教版小学六年级上
+1
+spelling
+vacation
+2
+meaning
+n. 假期, 休假，腾出
+vi. 度假
+3
+spelling
+Toronto
+4
+meaning
+n. 多伦多(加拿大城市)
+5
+spelling
+whale
+6
+meaning
+n. 鲸,大量
+vi. 捕鲸
+vt. 鞭打,打击,打败
+7
+spelling
+tusk
+8
+meaning
+n. 牙,暴牙,牙状物
+v. 以牙刺戳,以牙掘,用牙碰伤
+9
+spelling
+soup
+10
+meaning
+n. 汤,羹,困境
+11
+spelling
+writer
+12
+meaning
+n. 作者, 作家
+13
+spelling
+south
+14
+meaning
+adj. 南方的
+adv. 在南方
+n. 南,南方
+15
+spelling
+fish
+16
+meaning
+n. 鱼，鱼肉
+v. 钓鱼，捕鱼
+17
+spelling
+Danish
+18
+meaning
+n. 丹麦文，丹麦人
+adj. 丹麦的, 丹麦人的, 丹麦语的
+19
+spelling
+dumpling
+20
+meaning
+n. 小面团；汤团；饺子，软绵绵象团子的东西
+21
+spelling
+speak
+22
+meaning
+vt. 说,声明,表现
+vi. 说话,交谈,表达,发出声音
+23
+spelling
+London
+24
+meaning
+n. 伦敦
+25
+spelling
+be afraid of
+26
+meaning
+害怕
+27
+spelling
+mammal
+28
+meaning
+n. 哺乳动物
+29
+spelling
+kind
+30
+meaning
+adj. 仁慈的,友好的
+n. 种类,本质
+31
+spelling
+hiking
+32
+meaning
+n. 徒步旅行
+33
+spelling
+hear
+34
+meaning
+vt. &vi. 听到,得知,倾听,听证
+35
+spelling
+excited
+36
+meaning
+adj. 兴奋的
+37
+spelling
+spend
+38
+meaning
+v. (spent,spent) 花费,浪费,度过
+39
+spelling
+worried
+40
+meaning
+adj. 担心的，烦恼的
+动词worry的过去式和过去分词
+41
+spelling
+bring
+42
+meaning
+vt. 带来, 引起, 促使, 劝诱
+vi. 产生
+43
+spelling
+pity
+44
+meaning
+n. 遗憾的事,同情,可惜
+vt. &vi. 同情,怜悯
+45
+spelling
+Africa
+46
+meaning
+n. 非洲
+47
+spelling
+foggy
+48
+meaning
+adj. 有雾的
+49
+spelling
+pen pal
+50
+meaning
+笔友
+51
+spelling
+race
+52
+meaning
+n. 种族, 赛跑
+v. 赛跑, 竞赛
+n. 人种；种族
+53
+spelling
+find
+54
+meaning
+vt. &vi. 发现,感觉到,认为
+n. 发现物
+55
+spelling
+broken
+56
+meaning
+adj. 坏掉的,打破的,断掉的
+v. 打破,弄坏(break的过去分词)
+57
+spelling
+scared
+58
+meaning
+adj. 害怕的
+59
+spelling
+win
+60
+meaning
+n. 胜利
+vi. 胜利,成功
+vt. 赢得,战胜
+61
+spelling
+paint
+62
+meaning
+n. 油漆,颜料,绘画作品
+vt. &vi. 油漆,绘画
+63
+spelling
+poem
+64
+meaning
+n. 诗
+65
+spelling
+poet
+66
+meaning
+n. 诗人
+67
+spelling
+peanut
+68
+meaning
+n. 花生
+69
+spelling
+the British Museum
+70
+meaning
+n. 不列颠博物馆
+71
+spelling
+spicy
+72
+meaning
+adj. 芳香的(辛辣的)
+73
+spelling
+American
+74
+meaning
+adj. 美国的, 美式的
+n. 美国人, 美式英语
+75
+spelling
+clock
+76
+meaning
+n. 时钟, 计时器
+77
+spelling
+trunk
+78
+meaning
+n. 树干,躯干, 干线, (汽车后部)行李箱,象鼻
+79
+spelling
+map
+80
+meaning
+n. 地图
+v. 映射,绘制...之地图,计划
+[计算机] 存储区分配图
+81
+spelling
+reptile
+82
+meaning
+adj. 爬虫类的
+n. 爬行动物
+83
+spelling
+insect
+84
+meaning
+n. 昆虫
+85
+spelling
+silk
+86
+meaning
+adj. 丝的
+n. 丝, 绸
+87
+spelling
+scientist
+88
+meaning
+n. 科学家
+89
+spelling
+cry
+90
+meaning
+n. 叫,哭,喊,口号,叫卖声,普遍意见
+vt. 大声叫喊,宣传,哭得...
+vi. 哭,叫,喊,强烈要求
+91
+spelling
+sad
+92
+meaning
+adj. 悲哀的, 伤心的, 不能令人满意的
+93
+spelling
+west
+94
+meaning
+adj. 西方的
+adv. 向(在)西方
+n. 西, 西方
+95
+spelling
+temple
+96
+meaning
+n. 庙宇,寺院
+n.太阳穴
+97
+spelling
+stone
+98
+meaning
+n.石头； 宝石； 矿石； （膀胱或肾脏中的）结石
+vt.向扔石块； 用石头铺； 以石掷向； 除（水果的）硬核
+adj.石制的； 石头似的； [S-]石器时代的； 粗陶制的
+adv.石一般的
+99
+spelling
+taste
+100
+meaning
+n. 味道,品味,味觉,尝试
+vt. 尝到甜头, 尝试, 有...味道的
+vi. 品尝, 体验
+101
+spelling
+hurt
+102
+meaning
+vt. 伤害,(使)疼痛, 损害
+vi. 受疼痛，破坏
+n. 打击，创伤
+103
+spelling
+north
+104
+meaning
+adj. 北,北方(的)
+adv. 向北方
+n. 北,北方
+105
+spelling
+kangaroo
+106
+meaning
+n. 袋鼠
+107
+spelling
+test
+108
+meaning
+n. 测试, 试验
+vt. 测试, 试验, 接受测验, 测得...
+adj. 测试的
+109
+spelling
+forest
+110
+meaning
+n. 森林,园林,林火
+vt. 用树林覆盖, 植树
+111
+spelling
+president
+112
+meaning
+n. (国家)总统,(公司)总裁,总经理,社长(日本)
+113
+spelling
+story
+114
+meaning
+n. 故事,叙述
+vt. 以历史事件为图案装饰
+115
+spelling
+ill
+116
+meaning
+adj. 坏的,有病的,引起痛苦的,敌意的
+adv. 恶劣地,勉强的
+n. 邪恶,不幸,祸害,坏话
+117
+spelling
+artist
+118
+meaning
+n. 艺术家, 美术家, 艺人
+119
+spelling
+invent
+120
+meaning
+v. 发明
+vt. 发明,创造
+121
+spelling
+invention
+122
+meaning
+n. 发明,发明物,虚构,虚构物
+123
+spelling
+inventor
+124
+meaning
+n. 发明家，创造者
+125
+spelling
+penguin
+126
+meaning
+n. 企鹅
+127
+spelling
+deaf
+128
+meaning
+adj. 聋的
+129
+spelling
+smart
+130
+meaning
+adj. 聪明的,时髦的,漂亮的,敏捷的,轻快的,整洁的 vi. 刺痛,难过,烦恼 n. 刺痛,苦恼 adv. 轻快地,,机灵地,整齐地,漂亮地; v. 感到剧烈刺痛，（因批评、失败等）难过，烦恼
+131
+spelling
+study
+132
+meaning
+n. 学习,研究,学科,沉思,书房
+vt. 读书,计划,研究,记忆,调查
+vi. 学习,研究,沉思
+133
+spelling
+angry
+134
+meaning
+adj. 生气的,伤口红肿的
+135
+spelling
+prize
+136
+meaning
+n. 奖品,珍品,战利品
+vt. 重视
+adj. 奖励的,杰出的
+137
+spelling
+shark
+138
+meaning
+n. 鲨鱼,贪婪的人,老手
+139
+spelling
+metre
+140
+meaning
+n. 米, 公尺，计量器
+n. （诗的）韵律，格律
+=meter(美)
+141
+spelling
+French
+142
+meaning
+adj. 法国(人)的,法语的
+n. 法语
+vt. 剁肉，蔬菜切成长条
+143
+spelling
+university
+144
+meaning
+n. 大学
+145
+spelling
+Asia
+146
+meaning
+n. 亚洲
+147
+spelling
+bird
+148
+meaning
+n. 鸟,家禽,陶土飞靶,伙伴
+vi. 观察或辨认鸟
+149
+spelling
+competition
+150
+meaning
+n. 比赛,竞争
+151
+spelling
+around
+152
+meaning
+adj. 大约, 在现存范围内
+adv. 大约,到处,在周围
+prep. 在...附近, 到处
+153
+spelling
+fall
+154
+meaning
+n. 秋天, 落下, 瀑布
+v. 倒下, 落下, 来临
+155
+spelling
+blind
+156
+meaning
+adj. 盲目的,瞎的,未察觉的
+n. 百叶窗,幌子
+vt. 使失明,隐藏
+adv. 盲目地
+157
+spelling
+tower bridge
+158
+meaning
+n. 塔桥，伦敦塔桥
+159
+spelling
+look forward to
+160
+meaning
+vt. 展望(期待)
+161
+spelling
+east
+162
+meaning
+adj. 东方的
+adv. 向东方
+n. 东, 东方
+163
+spelling
+sunrise
+164
+meaning
+n. 日出
+165
+spelling
+happy
+166
+meaning
+adj. 快乐的,幸福的,乐于做某事
+167
+spelling
+proud
+168
+meaning
+adj. 骄傲的, 自豪的, 壮观的
+169
+spelling
+famous
+170
+meaning
+adj. 著名的,一流的
+171
+spelling
+fan
+172
+meaning
+n. 风扇,扇形物,狂热者
+vt. 风选,煽,吹,煽动,向扇子一样展开
+vi. 像扇子一样行动,鱼贯而出
+173
+spelling
+Sydney
+174
+meaning
+n. 悉尼(澳大利亚东南部一城市)
+175
+spelling
+garden
+176
+meaning
+n. 花园, 果园, 菜园, 草地
+vi. 栽培花木, 从事园艺工作
+vt. 造园, 以花园装饰
+adj.花园的, 园艺的, 绿化的, 平凡的
+177
+spelling
+because
+178
+meaning
+conj. 因为
